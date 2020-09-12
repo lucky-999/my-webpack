@@ -14,3 +14,8 @@ class Game {
   
   function writeGameSaving() {
   }
+
+  export default Game;
+  export GameSavingData;
+  export readGameSaving;
+  export writeGameSaving;
