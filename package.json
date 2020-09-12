@@ -1,0 +1,28 @@
+{
+  "name": "my-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "webpacktest",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucky-999/my-webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Lucky-999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucky-999/my-webpack/issues"
+  },
+  "homepage": "https://github.com/lucky-999/my-webpack#readme",
+  "devDependencies": {
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
