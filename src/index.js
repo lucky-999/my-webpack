@@ -4,4 +4,4 @@ import '../js/app.js';
 
 import '../js/domain.js';
 
-import '../js/game.jsт';
+import '../js/game.js';
